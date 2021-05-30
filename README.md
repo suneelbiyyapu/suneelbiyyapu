@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi All 👋,
+
+Xamarin Developer | Blogger | Author | Speaker 🐒
+
+- 🔭 I’m currently working on Xamarin
+
+🐤 Twitter : [@SuneelBiyyapu](https://twitter.com/SuneelBiyyapu)
+
+ℹ️ Linkedin : [Suneel Kumar Biyyapu](https://www.linkedin.com/in/suneelkumarbiyyapu/)
+
+🌐 Blog [IT Amaze](http://itamaze.blogspot.com/)
+
+📫 You can reach me at +91-6366108833
