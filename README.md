@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am  👋
 
 <!--
 **suneelbiyyapu/suneelbiyyapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi All 👋,
+
+🔭 I’m Suneel Kumar Biyyapu
+- 🔭 I’m currently working on BlueYonder.
+🌱 I blog about coding: [IT Amaze](http://itamaze.blogspot.com/).
+🦜 I’m on Twitter [@SuneelBiyyapu](https://twitter.com/SuneelBiyyapu).
+🦜 I’m on LinkedIn [Suneel Kumar Biyyapu](https://www.linkedin.com/in/suneelkumarbiyyapu/).
+😄 Pronouns: he/him/his
+📫 You can reach me at +91-6366108833
 
 Xamarin Developer | Blogger | Author | Speaker 🐒
-
-- 🔭 I’m currently working on Xamarin
-
-🐤 Twitter : [@SuneelBiyyapu](https://twitter.com/SuneelBiyyapu)
-
-ℹ️ Linkedin : [Suneel Kumar Biyyapu](https://www.linkedin.com/in/suneelkumarbiyyapu/)
-
-🌐 Blog [IT Amaze](http://itamaze.blogspot.com/)
-
-📫 You can reach me at +91-6366108833
