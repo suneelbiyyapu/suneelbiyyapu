@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 📫 You can reach me at +91-6366108833
 
 Xamarin Developer | Blogger | Author | Speaker 🐒
+
+[![Suneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=suneelbiyyapu)](https://github.com/suneelbiyyapu/github-readme-stats)
